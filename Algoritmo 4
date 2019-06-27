@@ -1,0 +1,13 @@
+1- Você tem um baralho?
+  - se sim: escolher uma carta
+  - se não: comprar um baralho
+2- Com o baralho em mãos peça para que um colega escolha 3 cartas. Escolheu as cartas ?
+  - se sim: informar as cartas escolhidas e coloca-las de volta no baralho com as outras cartas.
+  - se não: repetir o segundo passo e escolher a sua carta
+3- Após informar as cartas escolhidas retirar a primeira carta do topo do baralho
+- É uma das cartas escolhidas?
+  - se sim: reserve ela colocando-a separada do restante do baralho e continue a retirar a primeira carta do baralho até que ache as outras duas cartas escolhidas pelo seu colega.
+  - se não: continue retirando a carta de cima do baralho até achar uma das cartas escolhidas
+4- Ainda tem carta no baralho?
+  - se sim: continue a procurar 
+  - se não: algo ocorreu de errado, retorne ao primeiro passo e refaça os passos seguintes.

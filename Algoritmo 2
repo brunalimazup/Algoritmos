@@ -1,0 +1,11 @@
+Calculadora de Empréstimos
+
+- A idade fornecida está entre 25 e 60 anos?
+  - se sim: verificar se a renda é maior que R$ 1.500,00 
+  - se não: o seu cliente não poderá pedir um empréstimo, informar que ele não tem a idade mínima para pedir o empréstimo. 
+- Após a verificação de renda o seu cliente tem a renda maior que R$ 1.500,00?
+  - se sim: informar que ele precisa fazer um empréstimo de no mínimo R$1.000,00 e no máximo 10 vezes sua renda
+  - se não: pedir para o seu cliente falar com o gerente
+- Após o pedido de empréstimo do seu cliente, informar para o tal se o empréstimo foi aprovado ou não
+  - se sim: informar qual o valor final a ser pago já com a taxa de juros 
+  - se não: informar o motivo do porque o pedido foi negado e pedir para que o seu cliente tente de novo daqui a 3 meses. 

@@ -1,0 +1,14 @@
+1- Você tem um baralho?
+  - se sim: escolher uma carta
+  - se não: comprar um baralho
+2- Escolheu a Carta ?
+  - se sim: informar a carta escolhida
+  - se não: repetir o segundo passo e escolher a sua carta
+3- Após informar a carta escolhida retira a primeira carta do topo do baralho
+- É a carta escolhida?
+  - se sim: pare de procurar
+  - se não: continue retirando a carta de cima do baralho até achar a carta escolhida
+  - se não:
+	- Ainda tem carta no baralho?
+  - se sim: continue a procurar 
+  - se não: pare de procurar pois sua carta não está no baralho

@@ -1,0 +1,16 @@
+1- class animal
+
+  Atributos - espécie: String
+            - raça: String
+            - hábito alimentar: String
+            - porte: Double
+            - invertebrados or vertebrados: Boolean 
+            - pelagem: Boolean  
+            - habitat: String
+
+  Métodos   - andar: Void
+            - dormir: Void
+            - correr: Void 
+
+
+ 
